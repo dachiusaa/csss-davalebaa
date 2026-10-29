@@ -1,0 +1,43 @@
+.body{ 
+align-items: center;
+justify-content: center;
+}
+
+.jemal {
+  position: relative;
+  width: 300px;
+  padding: 20px;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+.skillstitle {
+  position: sticky;
+  top: 0;
+  padding: 15px;
+  background-color: lightyellow;
+}
+
+
+
+
+    .badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: orange;
+  padding: 5px 10px;
+}
+.contact {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  background-color: green;
+  color: white;
+}
+
+.messi{ 
+
+    
+}
+
